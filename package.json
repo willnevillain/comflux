@@ -1,0 +1,15 @@
+{
+  "name": "comflux",
+  "version": "0.0.1",
+  "description": "Cross-platform community metric gathering tool",
+  "main": "index.js",
+  "repository": "https://github.com/willnevillain/comflux",
+  "author": "@willnevillain",
+  "license": "GPL-3.0-or-later",
+  "private": false,
+  "devDependencies": {
+    "@tsconfig/node16": "^1.0.1",
+    "@types/node": "^15.6.1",
+    "typescript": "^4.3.2"
+  }
+}
