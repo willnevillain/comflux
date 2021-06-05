@@ -1,6 +1,9 @@
 {
   "name": "comflux",
   "version": "0.0.1",
+  "engines": {
+    "node": ">=16"
+  },
   "description": "Cross-platform community metric gathering tool",
   "main": "index.js",
   "repository": "https://github.com/willnevillain/comflux",
