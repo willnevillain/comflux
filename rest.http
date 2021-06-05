@@ -1,2 +1,7 @@
-# GET / - hello world
-GET http://localhost:3000
+# GET /health
+GET http://localhost:3000/health
+
+# GET /users/will
+GET http://localhost:3000/users/will
+
+
