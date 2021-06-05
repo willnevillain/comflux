@@ -1,13 +1,13 @@
 {
-    "extends": "@tsconfig/node16/tsconfig.json",
-    "include": ["src/**/*"],
-    "exclude": ["node_modules/**/*"],
-    "declaration": true,
-    "declarationMap": true,
-    "sourceMap": true,
-    "compilerOptions": {
-        "rootDir": "src",
-        "outDir": "dist",
-        "composite": true
-    }
+  "extends": "@tsconfig/node16/tsconfig.json",
+  "include": ["src/**/*"],
+  "exclude": ["node_modules/**/*"],
+  "declaration": true,
+  "declarationMap": true,
+  "sourceMap": true,
+  "compilerOptions": {
+    "rootDir": "src",
+    "outDir": "dist",
+    "composite": true
+  }
 }
